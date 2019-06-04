@@ -1,0 +1,24 @@
+a{
+  color: #022c43;
+}
+.sizer{
+  height: 40px;
+}
+
+.footer{
+  height: 199px;
+  color: ffd700;
+}
+
+.navbar-toggler{color:#ff9900}
+
+/* FONTS */
+.main-body{
+    min-height: 1500px;
+
+}
+
+
+font-family: 'Slabo 27px', serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Istok Web', sans-serif;
